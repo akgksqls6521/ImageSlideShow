@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ImageSlideShow</string>
+    <string name="app_name">넘겨볼래?</string>
+    <string name="but_text_start">START</string>
+    <string name="but_text_end">FIN</string>
 </resources>
